@@ -28,15 +28,13 @@ Doctor of Philosophy
 Copyright  
 All Rights Reserved  
   \\
+  \\
 By  
 Matthew Alexander Theris Poulos  
 Washington, D.C.    
 \\
-2019
+2019 \\NEWPAGE
 :::
-
-\\NEWPAGE
-
 
 ::: {custom-style="AbstractDissertation"}
 Callimachus and Callimacheanism in the Poetry of Gregory of Nazianzus  
@@ -83,30 +81,32 @@ Rev. Gregory Gilbert, PhD, Reader
 
 ###### ἐν παντὶ εὐχαριστεῖτε (1 Thes. 5:18)
 
-It is with a warm heart that I discharge the duty of thanking those who have contributed to this work. I begin, as is fitting, with the professors who have most shaped my scholarly career. While I was an undergraduate at North Carolina State University, I profited enormously from the guidance of William Adler. It was he with whom I first read patristic authors in Greek, and it was he who introduced me to the delights of Byzantine manuscripts. At Catholic University of America, I must first thank my *Doktorvater*, William McCarthy. In my first Greek class at CUA he suggested I have a look at Gregory’s poetry; I have not put Gregory’s work down since. He has supported me in numerous ways over the past seven years, not least in his constant encouragement to stay close to the source texts. Sarah Ferrario, in addition to her input as a reader, provided sage counsel throughout my time at CUA on all manner of issues, whether βιωτικά or φιλολογικά. I’m thankful also for the comments and encouragement of my second reader, Fr. Gregory Gilbert. While the Lead Editorial Assistant to the Library of Early Christianity, I learned from John Petruccione something of the care and attention to detail required to produce scholarly works of value. I am thankful for his counsel and encouragement. Frank Mantello’s appreciation for manuscripts and love of Latin made a deep mark even on this Hellenist: I profited greatly from his counsel and his *paterna hortamina*. Fabio Pagani has to my profit consistently pushed me to think through methodological issues. Though neither has contributed directly to my engagement with Gregory, Mathias Vorwerk and Robin Darling Young have nurtured and guided significant πάρεργα, especially my articles on Origen of Alexandria.
+It is with a warm heart that I discharge the duty of thanking those who have contributed to this work. I begin, as is fitting, with the professors who have most shaped my scholarly career. While I was an undergraduate at North Carolina State University, I profited enormously from the guidance of William Adler. It was he with whom I first read patristic authors in Greek, and it was he who introduced me to the delights of Byzantine manuscripts. At Catholic University of America, I must first thank my *Doktorvater*, William McCarthy. In my first Greek class at CUA, he suggested I have a look at Gregory’s poetry; I have not put Gregory’s work down since. He has supported me in numerous ways over the past seven years, not least in his constant exhortation to stay close to the source texts. Sarah Ferrario, in addition to her input as a reader, provided sage counsel throughout my time at CUA on all manner of issues, whether βιωτικά or φιλολογικά. I am grateful also for the numerous helpful comments of my second reader, Rev. Gregory Gilbert. While the Lead Editorial Assistant to the Library of Early Christianity, I learned from John Petruccione something of the care and attention to detail required to produce scholarly works of value. I am thankful for his counsel and encouragement. Frank Mantello’s appreciation for manuscripts and love of Latin made a deep mark even on this Hellenist. Fabio Pagani has to my profit consistently pushed me to think through methodological issues. 
 
 My work and my life have been enriched by numerous colleagues and friends at CUA. Pride of place goes to my friend and colleague, Kathleen Kirsch, who has provided invaluable critique at every stage of this work. My writing has profited from the scrupulous attention of, *inter alios*, Karen Carducci, Sr. Fiat Miola (SSVM), Patricia Craig, John Marshall, Casey Knott and Luigi de Luca. Numerous friends have pitched in to watch my children at one point or another: Patricia Craig, Keturah Kiehl, John and Susannah Marshall, Bohdan Lonchyna, Maria Stouraiti, Niki and Nyssa Flanders, and Carl Vennerstrom. I am grateful also to all who participated in CUA’s Dissertation Bootcamp during the summer of 2018, and to Kevin Rulo and Bethany Besteman for organizing this stimulating atmosphere in which to work and reflect on the process of research.
 
-I have profited greatly from the broader scholarly community. During 2018–19, Christos Simelidis took time away from a busy research project at Dumbarton Oaks to discuss Gregory and provided numerous corrections and suggestions on chapters two through five. Ryan Clevenger has helped me think through the broader theological and philosophical currents running through Gregory’s work. I am grateful for Suzanne Abrams Rebillard’s keen sensitivity to Gregory’s place within the social fabric of the fourth century AD. I have benefitted much from conversations on Gregory and Late Antique Poetry with James McDonald, Thomas Kuhn-Treichel, Matteo Agnosini, and Gianfranco Agosti, whom I met in Heidelberg in 2017. 
+I have profited greatly from the broader scholarly community. During 2018–19, Christos Simelidis took time away from a busy research project at Dumbarton Oaks to discuss Gregory’s poetry and provided numerous corrections and suggestions on chapters two through five. Ryan Clevenger has helped me think through the broader theological and philosophical currents running through Gregory’s work. I am grateful for discussions with Suzanne Abrams Rebillard and her keen sensitivity to Gregory’s place within the social fabric of the fourth century AD. I have benefitted much from conversations on Gregory and Late Antique Poetry with James McDonald, Thomas Kuhn-Treichel, Matteo Agnosini, and Gianfranco Agosti, whom I met at a stimulating conference in Heidelberg in 2017. 
 
-My friends and family have been a constant source of encouragement and support throughout the crucible of graduate school. I’m particularly grateful for my fellow parishioners and friends at the Church of the Advent, in Washington DC, for how well they have cared for me and for my family. Will Craig, Matthew Whittemore, and Brandt Siegel in particular have helped me remember the broader significance of what I do with my mind. My parents, Matt and Tammy, have nourished my love of books from the moment I was born. Both have always sought to embody the ancient wish: πάντα πατρῶν καὶ φέρτερος εἴης. My son, Gregory, and my daughter, Alexandria, have warmed my heart and helped me learn the discipline and patience needed to see a PhD through to completion. I devote this work to the two women who have contributed most to it; first, to my sister, Cassandra, who moved to Washington DC to help me finish this dissertation. Her support in every aspect, especially her help with our children, cannot be put into words. Finally, to my wife, Brianna. You have unflaggingly stood by my side, supporting me materially and spiritually, in body and in soul. No man could ask for a more affectionate, more steadfast, or more capable wife. I love you tenderly and pray our God rewards you richly. 
-
-
-
-> Gregorio uoueo uerba haec, natoue sacroue,  
->    o mea Alexandra, tu quoque honores habes.  
-> Laetus ago grates Cassandrae, quae olim in umbra,   
->    at ducta in luces gaudia magna tenet.  
-> Uxor, blande sinus, quo laudes inueniantur?  
->    hoc tibi do reuerens, omnia promeritae.
+My friends and family have been a constant source of support throughout the crucible of graduate school. I am especially grateful for my fellow parishioners and friends at the Church of the Advent, in Washington, DC, for how well they have cared for me and for my family. Will Craig, Matthew Whittemore, and Brandt Siegel in particular have helped me remember the broader significance of what I do with my mind. My parents, Matt and Tammy, have nourished my love of books from the moment I was born. Both have always sought to embody the ancient wish: πάντα πατρῶν καὶ φέρτερος εἴης. My son, Gregory, and my daughter, Alexandria, have warmed my heart and helped me learn the discipline and patience needed to see a PhD through to completion. I devote this work to the two women who have contributed most to it; first, to my sister, Cassandra, who moved to Washington, DC to help me finish this dissertation. Her support in every aspect, especially her help with our children, cannot be put into words. Finally, to my wife, Brianna. You have unflaggingly stood by my side, supporting me materially and spiritually, in body and in soul. No man could ask for a more affectionate, more steadfast, or more capable wife. I love you tenderly and pray our God rewards you richly. 
 
 
 
 
-> τῷ θεῷ ἡ δόξα. 
 
-> Alex Poulos  
-> Lent 2019
+::: {custom-style="Epigram"}
+*Gregorio uoueo uerba haec, natoue sacroue,*  
+*   o mea Alexandra, tu quoque honores habes.*  
+* laetus ago grates Cassandrae, quae olim in umbra,*  
+*   at ducta in luces gaudia magna tenet.*  
+*uxor, blande sinus, quo laudes inueniantur?*  
+*    hoc tibi do reuerens, omnia promeritae.*  
+:::
+
+::: {custom-style="RightJustifiedSingle"}
+*Alex Poulos*  
+*Deo gloria*  
+*Lent 2019*
+:::
 
 \\NEWPAGE
 
@@ -1069,7 +1069,7 @@ Gregory was not quite as strict as Callimachus in the elision of short vowels. C
 Gregory and Callimachus are both strict with correption and hiatus, though they exhibit different preferences. In Callimachus correption tends to occur at 1.5, 5.5, 8, and 9.5, and is typically avoided at 3.5, 4, and 7.5.[^338] In the passages from Gregory, correption occurs at 2, 6, 8. As for hiatus, Callimachus avoided it between metra, except with the conjunction ἤ or words originally containing a digamma. Within metra, hiatus occurred only after the princeps when the metron was dactylic (e.g. *Hec.* fr. 9.1 κολουραίῃ ὑπὸ πέτρῃ). Gregory shows the reverse tendency: he admits hiatus primarily between metra but not within. Hiatus tends to occur, as in other later poets,[^339] after the first metron (e.g. *Poem. arc.* 3.59 τέμνει, ὄφρα) and after the fourth metron (the bucolic diaeresis).  Fully half of the instances of hiatus in the passages analyzed occur between the fourth and fifth foot at the bucolic diaeresis. There is variation between the works, however. Hiatus at the bucolic diaeresis occurs only once in *Poem. arc.* 3 (line 64), but six times in *DRS* 294–392 (296, 305, 307, 312, 365, and 379).  Thus we see that Gregory conforms much more closely to Callimachus’ rules for hiatus in *Poem. arc.* 3 than in *DRS*. Hiatus occurs five times in 93 lines: one instance occurs with ἤ (54), one with a word with an historical digamma (καί οἱ 14), and one within a metron (47). Gregory thus only twice departs sharply from Callimachean practice (*Poem. arc.*  59 and 64). It is clear Gregory took care to construct metrically correct and sophisticated hexameters and it appears that he striving for a Callimachean sound particularly in *Poem. arc.* 3.
 
 #### Prosody
-Gregory’s takes considerably more license in his prosody than he does in his metrics. He is considerably more flexible than even Homer in admitting short syllables before consonantal clusters. For instance, at *Poem. arc.* 3.15 he scans γυμνὴν  as an iamb (˘ ¯). The LfGRE lists no precedent for this unusual scansion.[^340] Notable also is *Poem. arc.* 3.42 where ἄκτιστον is scanned as a dactyl. In Homer, the only instances of a short vowel not being lengthened by consonantal cluster στ occur at *Od* 21.178, 183 (ἐκ δὲ στέατος ἔνεικε). Following Homeric practice, Gregory allows a short vowel to be lengthened by the a concluding ν, ρ, or σ of the following word (*e.g.* *carm.* 1.2.17 11 τυτθὸν ὑποείξας, where τυθὸν is scanned as a spondee).[^341] Furthermore, on occasion Gregory  does not observe traditional vowel lengths for the dichrona (α ι υ), though his “false quantities” are more common in iambic than in hexametric verse.[^342] In my passages, I have observed four prosodic irregularities: *Poem. arc.* 3.29: ἡμῖν scanned as a trochee´ *DRS* 294: κειμήλια, with the opening syllable scanned short; *DRS* 314: λιτῇσι, with the opening syllable scanned short;  *DRS* 353: θείαν, with the ultimate syllable scanned short. In all instances but *DRS* 314 (λιτῇσι), there is an easy emendation that observes classical prosody. See the appendix of textual discussions for further detail. Gregory thus seems to depart occasionally from classical prosody, perhaps intentionally, but only on rare occasions. As Simelidis has noted,[^343] much more text-critical work must be done on Gregory before we can properly grasp the extent to which his prosody departed from classical norms. 
+Gregory’s takes considerably more license in his prosody than he does in his metrics. He is considerably more flexible than even Homer in admitting short syllables before consonantal clusters. For instance, at *Poem. arc.* 3.15 he scans γυμνὴν  as an iamb (˘ ¯). The LfGRE lists no precedent for this unusual scansion.[^340] Notable also is *Poem. arc.* 3.42 where ἄκτιστον is scanned as a dactyl. In Homer, the only instances of a short vowel not being lengthened by consonantal cluster στ occur at *Od* 21.178, 183 (ἐκ δὲ στέατος ἔνεικε). Following Homeric practice, Gregory allows a short vowel to be lengthened by the a concluding ν, ρ, or σ of the following word (*e.g.* *carm.* 1.2.17 11 τυτθὸν ὑποείξας, where τυθὸν is scanned as a spondee).[^341] Furthermore, on occasion Gregory  does not observe traditional vowel lengths for the dichrona (α ι υ), though his “false quantities” are more common in iambic than in hexametric verse.[^342] In my passages, I have observed four prosodic irregularities: *Poem. arc.* 3.29: ἡμῖν scanned as a trochee; *DRS* 294: κειμήλια, with the opening syllable scanned short; *DRS* 314: λιτῇσι, with the opening syllable scanned short;  *DRS* 353: θείαν, with the ultimate syllable scanned short. In all instances but *DRS* 314 (λιτῇσι), there is an easy emendation that observes classical prosody. See the appendix of textual discussions for further detail. Gregory thus seems to depart occasionally from classical prosody, perhaps intentionally, but only on rare occasions. As Simelidis has noted,[^343] much more text-critical work must be done on Gregory before we can properly grasp the extent to which his prosody departed from classical norms. 
 
 #### Repetitions
 Simelidis has aptly noted Gregory’s penchant for repetitions of all sorts.[^344] Gregory is fond of stylistic devices like alliteration and anaphora, but even on occasion repeats larger pieces of text in close proximity. Indeed, as we will see in Chapter 4, Gregory sometimes has passages of 10–15 lines that occur in more than one poem. I here wish to focus upon smaller-scale repetitions, especially alliteration, anaphora, and juxtaposed prosodic variants. Though such stylistic features are hardly exclusive to Gregory and Callimachus, anaphora and juxtaposed prosodic variants in particular are prominent in the Cyrenaean poet and I think it likely that Gregory perceived them as elements of a Callimachean style. 
@@ -2224,7 +2224,7 @@ There is in fact some evidence from Gregory’s own pen that he never finished e
 
 Simelidis remarks, “Gregory seems to wonder who is going to continue the semi-finished poems.”[^526] Simelidis is most likely right that by μῦθοι (“words”) Gregory refers to poems, though it is possible he refers to prose orations.[^527] Yet even if Gregory means his poetry, the implication is that Gregory was in the process of editing his poems, even if he had not completed the task. Moreover, I suspect that when Gregory calls some of his works “incomplete” (ἀτέλεστοι) he means not that individual poems are half-finished, but that these have not yet been revised and placed in a unified sequence. Bernardi has found evidence that *carm.* 2.1.1, though originally written in the 370s, was subsequently edited during Gregory’s retirement in the 380s.[^528] I have argued in chapter four that *carm.* 1.2.1 (a/b) was similarly written in the 360s or 370s and then revised in the 380s. I take it that Gregory intended to carry out similar revisions across much of his corpus, but was likely unable to complete the task before he died. We do well to remember, however, that poems may be exquisitely structured and carefully wrought even if the author is not fully satisfied; we need only consider Virgil’s *Aeneid* or Ovid’s *Fasti*. The lines from *carm.* 2.1.50 should not be taken as evidence of Gregory’s haphazard editing but as a spur for scholars to reconstruct, as far as the evidence permits, Gregory’s editorial design.
 
-Identifying poetic sequences is hardly a straightforward process, and I consider many of my arguments below to be suggestive essays rather than definitive pronouncements. Bady has persuasively shown that the *acolouthia*  of the manuscripts sometimes present traces of an authorial design.[^529] I have thus paid close attention to the transmission of the poems analyzed. Yet the lack of uniformity in the *acolouthia* of the manuscript tradition invites us to draw connections between poems that do not appear together. Not only did the division between epic/elegiac and iambic groups not occur until after 600 CE,[^530] but there is every reason to suspect that in some cases Gregory paired poems in different metrical schemes. For instance, Gregory writes three poems against bishops: 2.1.13 in hexameters, 2.1.10 in elegiacs, and 2.1.12 in iambs.[^531] Though I doubt they stood beside one another in an authorial sequence, Gregory nevertheless invites us to read them alongside each other by treating the same theme in three different manners. We will see further connections between poems in different metrical schemes below.
+Identifying poetic sequences is hardly a straightforward process, and I consider many of my arguments below to be suggestive essays rather than definitive pronouncements. Bady has persuasively shown that the *acolouthia*  of the manuscripts sometimes present traces of an authorial design.[^529] I have thus paid close attention to the transmission of the poems analyzed. Yet the lack of uniformity in the *acolouthia* of the manuscript tradition invites us to draw connections between poems that do not appear together. Not only did the division between epic/elegiac and iambic groups not occur until after 600 AD,[^530] but there is every reason to suspect that in some cases Gregory paired poems in different metrical schemes. For instance, Gregory writes three poems against bishops: 2.1.13 in hexameters, 2.1.10 in elegiacs, and 2.1.12 in iambs.[^531] Though I doubt they stood beside one another in an authorial sequence, Gregory nevertheless invites us to read them alongside each other by treating the same theme in three different manners. We will see further connections between poems in different metrical schemes below.
 
 Given the state of the manuscript tradition, I have relied heavily on internal formal criteria for positing sequences, especially the openings and closings of poems. Like the Alexandrian poets, Gregory was fond of ring-structure, both within poems and across larger sequences. When the opening of one poem is answered by the close of another, this is one important indication that they should be read together, as it is when the beginning of one poem reprises a theme, motif, or phrase from the end of another poem. Bady has used precisely these criteria to argue that many of sequences present in L reflect Gregory’s editorial intent.[^532] Moreover, Gregory’s penchant for reusing lines and motifs likewise creates connections between different parts of the *corpus*. I have also relied on historical context, for poems composed contemporaneously with one another were often intended to be read together. I have thus selected for analysis a group of elegiac poems composed primarily between the middle of 381 and Easter 382. The nature of the evidence is such that there is seldom a smoking gun; yet the accumulation of various internal and external clues are persuasive when taken in sum. Before examining Gregory’s work, however, I first wish to illustrate from more well-known poets the tools that Gregory used to order his work. For that task, we turn to Callimachus and Ovid.
 
@@ -2476,9 +2476,10 @@ Though I have primarily drawn attention to the internal coherence of the sequenc
 
 
 
-# Conclusions
+# Conclusion
 
-I have argued in this chapter that these seven elegiac poems (*carm.* 2.1.10, 15, 16, 45, 34a/b and 38) constitute a coherent sequence. This may be seen especially in how the beginnings and endings of the poems build upon others in the sequence, but also in the other cross-references, repeated lines, and reprised motifs. In crafting sequences of this sort Gregory has followed Callimachean precedent, even if the result is not quite so tidy as we find in other exemplars of the practice, like Ovid. Gregory has, I argue, put considerably more editorial energy into his poetic *oevre* than has yet been recognized, even if he never managed to compile all of his poems into an aesthetically unified *Gesamtwerk*. The present chapter is only one small sounding into a vast sea; there are many other issues which might be investigated in the future, especially whether Gregory constructed sequences of poems with varied metrical schemes and genres. I have selected for detailed analysis only poems in elegiac couplets, yet we have seen that the elegiac sequence points to works in other metrical schemes. The poetic program in the elegiac poem 2.1.34a (69–92) responds to a challenge issued to rivals in the iambic 2.1.12 (309–26), but also looks forward to the *Poemata arcana* (1.1.1–5, 7–9), a didactic sequence in hexameters. The theme of repressing anger, so prevalent in our sequence, looks back to Gregory’s angry outburst in the hexametric *carm.* 2.1.13 and is treated from a didactic perspective in 1.2.25 *Adv. iram*, an iambic poem contemporaneous with 2.1.34a/b. Moreover, there are several short iambic poems (2.1.35–37) which are also set during Gregory’s fast of silence in 382. These contain noteworthy cross-references to the contemporaneous 1.2.25 (*Adv. iram*).[^598] It seems likely to me that these were part of a parallel sequence of iambic poems, though perhaps Gregory unified them into one large sequence. In any event, it is clear that Gregory set out to imitate and emulate the generic variety and flexibility (πολυείδεια) of Callimachus, which the Alexandrian defended in *Iamb.* 13.[^599] Other aspects of self-awareness would be worth analyzing in another setting, especially the striking manner in which Gregory himself becomes the subject of his song. We could fruitfully juxtapose Gregory’s laments with, for instance, the exile poetry of Ovid. Yet even this small effort sheds light on the reception in the fourth century CE of a key practice of the Alexandrian poets and illumines the literary art of a man who was, in his own estimation, born to bear the pen.[^600]
+I have argued in this chapter that these seven elegiac poems (*carm.* 2.1.10, 15, 16, 45, 34a/b and 38) constitute a coherent sequence. This may be seen especially in how the beginnings and endings of the poems build upon others in the sequence, but also in the other cross-references, repeated lines, and reprised motifs. In crafting sequences of this sort Gregory has followed Callimachean precedent, even if the result is not quite so tidy as we find in other exemplars of the practice, like Ovid. Gregory has, I argue, put considerably more editorial energy into his poetic *oevre* than has yet been recognized, even if he never managed to compile all of his poems into an aesthetically unified *Gesamtwerk*. The present chapter is only one small sounding into a vast sea; there are many other issues which might be investigated in the future, especially whether Gregory constructed sequences of poems with varied metrical schemes and genres. I have selected for detailed analysis only poems in elegiac couplets, yet we have seen that the elegiac sequence points to works in other metrical schemes. The poetic program in the elegiac poem 2.1.34a (69–92) responds to a challenge issued to rivals in the iambic 2.1.12 (309–26), but also looks forward to the *Poemata arcana* (1.1.1–5, 7–9), a didactic sequence in hexameters. The theme of repressing anger, so prevalent in our sequence, looks back to Gregory’s angry outburst in the hexametric *carm.* 2.1.13 and is treated from a didactic perspective in 1.2.25 *Adv. iram*, an iambic poem contemporaneous with 2.1.34a/b. Moreover, there are several short iambic poems (2.1.35–37) which are also set during Gregory’s fast of silence in 382. These contain noteworthy cross-references to the contemporaneous 1.2.25 (*Adv. iram*).[^598] It seems likely to me that these were part of a parallel sequence of iambic poems, though perhaps Gregory unified them into one large sequence. In any event, it is clear that Gregory set out to imitate and emulate the generic variety and flexibility (πολυείδεια) of Callimachus, which the Alexandrian defended in *Iamb.* 13.[^599] Other aspects of self-awareness would be worth analyzing in another setting, especially the striking manner in which Gregory himself becomes the subject of his song. We could fruitfully juxtapose Gregory’s laments with, for instance, the exile poetry of Ovid. Yet even this small effort, together with the chapters that precede, sheds important light on Callimachus’ reception in the fourth century AD by illuminating the literary art of a man who was, in his own estimation, born to bear the pen.[^600]
+
 
 #  Appendix of Text Critical Discussions
 
@@ -2582,7 +2583,7 @@ Abbreviations for journals follow those of *L’année philologique*.
 
 [^3]:	See the literature review below for bibliography.
 
-[^4]:	See @McGuckin-SaintGregoryNazianzus-2001 and @Elm-SonsHellenismFathers-2015.
+[^4]:	See @McGuckin-SaintGregoryNazianzus-2001 and @Elm-SonsHellenismfathers-2012.
 
 [^5]:	@Demoen-Paganbiblicalexempla-1996
 
@@ -2610,7 +2611,7 @@ Abbreviations for journals follow those of *L’année philologique*.
 
 [^17]:	I have rendered Greek hexameter and elegiac couplets into iambic pentameter, since Milton’s *Paradise Lost* is the primary English epic. For Greek iambic trimeter,  I likewise use iambic pentameter, since Shakespeare is the most important English dramatist and iambic trimeter was the primary meter of dialogue in Greek Tragedy and Comedy. However, when rendering hexameter and elegiac couplets into English I employ more archaic diction (chiefly the now defunct second person thou), which I eschew when rendering iambic trimeter. This captures in part the greater conversational feel of iambic trimeter in Greek, while admitting archaic forms in English captures roughly the vast gulf between the diction typical of Greek hexametric poetry in any age and the contemporary speech. Though I would like in the future to develop a scheme for rendering elegiac couplets into English verse that distinguishes them from hexameter, the exigencies of time have prevented this effort for now.
 
-[^18]:	In addition to @McGuckin-SaintGregoryNazianzus-2001 and @Elm-SonsHellenismFathers-2015, the articles of Neil McLynn and Brad Storin are especially helpful in elucidating Gregory’s history. For Gregory’s retirement, see especially @McLynn-VoiceConscienceGregory-1997, @McLynn-Gregorygovernorspaideia-2015,  and @Storin-silentwayasceticism-2011. More generally, see @McLynn-hellenistsGreogrysophists-2006. For a survey of the modern biographies of Gregory and their conceptual limitations, see @Storin-AutohagiobiographyGregoryNazianzus-2017.
+[^18]:	In addition to @McGuckin-SaintGregoryNazianzus-2001 and @Elm-SonsHellenismfathers-2012, the articles of Neil McLynn and Brad Storin are especially helpful in elucidating Gregory’s history. For Gregory’s retirement, see especially @McLynn-VoiceConscienceGregory-1997, @McLynn-Gregorygovernorspaideia-2015,  and @Storin-silentwayasceticism-2011. More generally, see @McLynn-hellenistsGreogrysophists-2006. For a survey of the modern biographies of Gregory and their conceptual limitations, see @Storin-AutohagiobiographyGregoryNazianzus-2017.
 
 [^19]:	When referring to the father of our poet, I always make this explicit. “Gregory” without any further adjective always refers to the son and poet.
 
@@ -2853,7 +2854,7 @@ Abbreviations for journals follow those of *L’année philologique*.
 
 [^138]:	@D.M-CallimachuslaterGreek-2011 551–52.
 
-[^139]:	@Muller-Geographigraeciminores-1861 *passim*.
+[^139]:	@mullergeographi1861 *passim*.
 
 [^140]:	For example, @Greaves-DionysiusPeriegetesHellenistic-1994 105–139.
 
@@ -2885,11 +2886,11 @@ Abbreviations for journals follow those of *L’année philologique*.
 
 [^154]:	Hellenistic and Imperial hexameter tended to be much more dactylic than earlier verse. See @West-GreekMetre-1982 177–78. Lines with three spondees, like l. 546, are rare in the *Periegesis*. They comprise 7% of the poem. See @Lightfoot-DionysiusPeriegetesDescription-2014 66.
 
-[^155]:	Hesiod mentions the “Isles of the Blest” in *Op.* 170–173. We also find a brief mention of the Isles of the Blest in *Od.* 4.561–64 that contradicts the pessimistic view of the afterlife perceptible elsewhere in Homer. For discussion, see @H.W.H-CommentaryHomerOdyssey-1988 ad loc. Plato’s Myth of Er in *Rep.* 10 was the probably most influential philosophical treatment of the afterlife. 
+[^155]:	Hesiod mentions the “Isles of the Blest” in *Op.* 170–173. We also find a brief mention of the Isles of the Blest in *Od.* 4.561–64 that contradicts the pessimistic view of the afterlife perceptible elsewhere in Homer. For discussion, see @westcommentary1988 *ad loc*. Plato’s Myth of Er in *Rep.* 10 was the probably most influential philosophical treatment of the afterlife. 
 
 [^156]:	See @Stephens-CallimachusHymns-2015 ad loc.
 
-[^157]:	Κινώπετα δέ ἐστιν, ὧν ἡ κίνησις ἐν τῷ πέτεσθαι. “They are *kinopeta* whose movement is by flight.” Eustathius, *Commentarium* 541, ed. @Muller-Geographigraeciminores-1861. See also @Lightfoot-DionysiusPeriegetesDescription-2014 ad loc.
+[^157]:	Κινώπετα δέ ἐστιν, ὧν ἡ κίνησις ἐν τῷ πέτεσθαι. “They are *kinopeta* whose movement is by flight.” Eustathius, *Commentarium* 541, ed. @mullergeographi1861. See also @Lightfoot-DionysiusPeriegetesDescription-2014 ad loc.
 
 [^158]:	Notable exception are @Effe-DichtungundLehre-1977 137–73 and @Whitby-CynegeticaattributedOppian-2007 125. Effe’s schema leads him to overemphasize Oppian’s connections with Aratus. Whitby contrasts Oppian’s “Callimachean proportions and aesthetics” with the 42 book *Iatrica* of Macellus of Side. 
 
@@ -3210,7 +3211,7 @@ Abbreviations for journals follow those of *L’année philologique*.
 
 [^306]:	Τὸ λακωνίζειν οὐ τοῦτό ἐστιν, ὅπερ οἴει, ὀλίγας συλλαβὰς γράφειν, ἀλλὰ περὶ πλείστων ὀλίγας. Οὕτω ἐγὼ καὶ βραχυλογώτατον Ὅμηρον λέγω καὶ πολὺν τὸν Ἀντίμαχον. Πῶς; τοῖς πράγμασι κρίνων τὸ μῆκος, ἀλλ’ οὐ τοῖς γράμμασι. 
 
-[^307]:	@Cameron-CallimachusHisCritics-1995a 336.
+[^307]:	@Cameron-CallimachusHisCritics-1995 336.
 
 [^308]:	I reproduce the text of @Caillau-patrisnostriGregorii-1842. The text has also been rendered into English by @McGuckin-SaintGregoryNazianzen-1995 and @Gilbert-Godmantheological-2001. I briefly catalogue my disagreements here:
 
@@ -3598,7 +3599,7 @@ Abbreviations for journals follow those of *L’année philologique*.
 
 [^474]:	ἔτ’  is Fraenkel’s conjecture. The manuscripts read ἐπ
 
-[^475]:	I cite the *Argonautica* according to @Frankel-Argonautica-1961.
+[^475]:	I cite the *Argonautica* according to @frankelapollonii1961.
 
 [^476]:	It is not clear how to construe this line; it may be corrupt.
 
@@ -3849,11 +3850,11 @@ Abbreviations for journals follow those of *L’année philologique*.
 
 [^599]:	For *Iamb.* 13, see discussion in @Kerkhecker-CallimachusbookIambi-1999 250–70 and @acostahughespolyeideia2002 60–103.
 
-[^600]:	See 2.1.41 (*Adversus Maximum*) 55: “you’re writing against a man whose nature it is to write!” (γράφεις κατ’ ἀνδρὸς ᾧ γράφειν ἐστὶν φύσις).
+[^600]:	See *carm.* 2.1.41 (*Adversus Maximum*) 55: “you’re writing against a man whose nature it is to write!” (γράφεις κατ’ ἀνδρὸς ᾧ γράφειν ἐστὶν φύσις).
 
 [^601]:	For ἧμιν, see for example *Il.* 17.417; for ἄμμιν see *Od.* 12.275.
 
-[^602]:	@Simelidis-CallimachusEpigramGregory-2011 91
+[^602]:	@Simelidis-SelectedPoemsGregory-2009 91
 
 [^603]:	For Gregory’s works as source material for later lexica, see @Simelidis-SelectedPoemsGregory-2009 48n84 75–76.
 
