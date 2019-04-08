@@ -5,7 +5,7 @@ THE CATHOLIC UNIVERSITY OF AMERICA
   \\
   \\
 Callimachus and Callimacheanism in the Poetry of Gregory of Nazianzus  
-Matthew Alexander Theris Poulos  
+  \\
   \\
   \\
   \\
@@ -94,7 +94,7 @@ My friends and family have been a constant source of support throughout the cruc
 Γρηγορίῳ τοδὲ ἔργον ἐθήκα υἵῷ τ’ ἅγίῳ τε    
     καὶ Ἀλεξανδρείᾳ ᾗ μέλεται τὸ γελᾶν.  
  χαίρω ἐγὼ δὲ κάσει, Κασσάνδρῃ, Σαπφόϊ καίνῃ,  
-    ἥ μὲν πρὸς τὸ σκοτὸν, νῦνι δὲ φῶς Χάριτος.  
+    ἥ μὲν πρὸς τὸ σκότος, νῦν δὲ τὸ φῶς Χάριτος.  
  ὦ ῥοδὸν, ὄμματά μου,  γλυκὺς ἵμερος,  εὔφρον ἄκοιτι,  
      τοῦτο δέ τοι ῥέξα· τοῦτο δὲ σοί, Βριάνη.  
 :::
@@ -115,7 +115,7 @@ My friends and family have been a constant source of support throughout the cruc
 ::: {custom-style="Bibliography"}
 Lampe = Lampe, G. W. H. 1961. *A Patristic Greek Lexicon*. Oxford.
 
-LfGRE = Snell, B. et al. 1955–2010. *Lexikon des frühgiechischen Epos.* 25 vols. Göttingen.
+LfGRE = Snell, B. et al. 1955–2010. *Lexikon des frühgriechischen Epos.* 25 vols. Göttingen.
 
 LSJ = Liddell, H. G. R., and H. S. Jones. 1996. *A Greek-English Lexicon.* Oxford.
 
@@ -127,7 +127,7 @@ SVF = von Arnim, Hans. 1903–05. *Stoicorum ueterum fragmenta.* 4 vols. Stuttga
 :::
 
 ::: {custom-style="AbbreviationsNote"}
-I have abbreviated the names of books of the Bible according to the SBL Handbook of Style. Abbreviations of Greek patristic authors follow those of Lampe. For classical authors I have followed the abbreviations of *OCD*, when available with the following exceptions: 
+I have abbreviated the names of books of the Bible according to the SBL Handbook of Style. Abbreviations of Greek patristic authors follow those of Lampe. For classical authors I have followed the abbreviations of the *OCD*, when available with the following exceptions: 
 
   \\
 Call. = Callimachus of Cyrene  
@@ -230,10 +230,10 @@ I begin the chapter by surveying Callimachus’ role in the school. Most educate
 
 
 > Καλλίμαχον πωλῶ καὶ Πίνδαρον ἠδὲ καὶ αὐτὰς    \\
-> πτώσεις γραμματικῆς πτῶσιν ἔχων πενίης. 
+>    πτώσεις γραμματικῆς πτῶσιν ἔχων πενίης. 
 
 
-> “I’m selling my Callimachus, Pindar, and those books of declensions, since I’ve suffered a case of grammatical poverty.” (*AnthPal* 9.175, Palladas, 4th. c. AD)
+> I’m selling my Callimachus, Pindar, and those books of declensions, since I’ve suffered a case of grammatical poverty (*AnthPal* 9.175, Palladas, 4th. c. AD).
 
 
 Like Vergil, Callimachus’ works quickly became classics. P.Lille 76d dates to within a generation of the Cyrenaean’s death (3rd c. BC). Its basic interpretative glosses suggest that Callimachus was already being read in the school, or at least by a broad, educated audience. Evidence from the Imperial period and late antiquity shows that Callimachus was a common school author.  In the epigram *AnthPal* 9.175, Palladas the grammarian  (4th c. AD) describes himself as selling Pindar, Callimachus, and grammar books so he can take up a different profession. We likewise possess positive evidence for several of the individual works. Atheneaus’ _Deipnosophistae_ 15.669c (2nd. c. AD) refers to one of Callimachus’ epigrams as  “those which are read by children (παῖδες).”[^89]  For the _Hecale_, we have the testimony of P. Rainier VI (The Vienna Tablet), which is a wooden tablet of the sort used in schools. On one side are scratched four lines of the _Hecale_, on the reverse, several lines of Euripides. The *Aetia* was Callimachus’ most famous work. Several grammarians wrote commentaries on it and we find frequent citations in the grammatical treatises of the Empire.[^90] None of the numerous surviving papyri have been positively identified as school fragments. Yet the broad geographical and temporal range of the papyri, the simple commentaries and summaries that survive, and the frequent imitations by later authors demonstrate its presence in the grammarian’s classroom. The _Hymns_ of Callimachus were not so popular as his *Aetia*, at least to judge from the surviving papyri, but several reading lists confirm their presence in the schools.[^91] The paucity of school texts is surprising, but comprehensible. Papyri from school contexts are identified because of their unsure penmanship. As notes, by the time students have begun reading authors like Callimachus and Pindar, their penmanship is normally indistinguishable from that of any other fully literate person.[^92]
@@ -3075,7 +3075,7 @@ In line 60, I would punctuate after χρῆμα and then take the following κα
 
 [^236]:	@Vertoudakis-OGDOOVIVLIOTIS-2011 164.
 
-[^237]:	Panagiotis, for instance, misses Gregory’s humor in her short summary of his style. See @Panagiotis-EpitafiaEpigrammatatoy-2011 16–17.
+[^237]:	Vardakas, for instance, misses Gregory’s humor in his short summary of Gregory’s style. See @Panagiotis-EpitafiaEpigrammatatoy-2011 16–17.
 
 [^238]:	See @Gutzwiller-PoeticGarlandsHellenistic-1998 190–96 for the variety of approaches that Callimachus adopts in his dedicatory epigrams.
 
@@ -3844,23 +3844,23 @@ In line 60, I would punctuate after χρῆμα and then take the following κα
 
 [^606]:	For ἧμιν, see for example *Il.* 17.417; for ἄμμιν see *Od.* 12.275.
 
-[^607]:	@Simelidis-SelectedPoemsGregory-2009 91
+[^607]:	@Simelidis-SelectedPoemsGregory-2009 91.
 
-[^608]:	For Gregory’s works as source material for later lexica, see @Simelidis-SelectedPoemsGregory-2009 48n84 75–76.
+[^608]:	For Gregory’s works as source material for later lexica, see @Simelidis-SelectedPoemsGregory-2009 48 n. 84 75–76.
 
 [^609]:	@Cameron-PoetryLiteraryCulture-2006 339.
 
 [^610]:	*Cf.* *DRS* 63 οὔ με γάμος δ’ ἐπέδησε. *Cf.* also the section in chapter three on syntax.
 
-[^611]:	@oberhausgregor1991 27
+[^611]:	@oberhausgregor1991 27.
 
-[^612]:	@gignacgrammar1976 75
+[^612]:	@gignacgrammar1976 75.
 
-[^613]:	@Simelidis-SelectedPoemsGregory-2009
+[^613]:	See @Simelidis-SelectedPoemsGregory-2009.
 
 [^614]:	*Scripsi*. The manuscripts carry εἰ but there is no apodosis to be found, and the point of the lines seems to be that not even the scriptures are a completely safe refuge, since they provide opportunities for abuse to heretics.
 
-[^615]:	@DeBlasi-GregoriodiNazianzo-2018
+[^615]:	See @DeBlasi-GregoriodiNazianzo-2018.
 
 [^616]:	A sense pause before the second princeps is attested in 8% of iambic lines, according to @West-GreekMetre-1982 41.
 
